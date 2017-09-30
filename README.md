@@ -13,3 +13,4 @@ If you can't find the plugin try rqt --force-plugin <br />
 If there are other errors make sure you have rqt for ros installed on your laptop. <br />
 
 This is a Git Pull, Push, Fork, and PUll request practice between Karsh and Dan.
+Now testing Collaborator pushes.
